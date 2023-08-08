@@ -1,7 +1,7 @@
 /*
  * https://leetcode.com/problems/search-in-rotated-sorted-array/
  * @lc app=leetcode id=33 lang=javascript
- *
+ * 
  * [33] Search in Rotated Sorted Array
  */
 
